@@ -1,0 +1,11 @@
+.main {
+    border: #0d227d solid;
+    width: fit-content;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.border {
+    padding: 30px;
+}

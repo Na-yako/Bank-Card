@@ -1,0 +1,23 @@
+.app {
+    border: #f6f6f6 solid;
+}
+
+.app-container {
+    width: 80%;
+    margin: 0 auto;
+    border-left: #f6f6f6 solid;
+    border-right: #f6f6f6 solid;
+    padding: 10px;
+}
+
+.mains {
+    display: flex;
+    flex-basis: 15%;
+    flex-direction: column;
+    position: relative;
+}
+
+.absolute {
+    position: absolute;
+    margin-top: 30px;
+}

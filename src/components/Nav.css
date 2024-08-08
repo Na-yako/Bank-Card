@@ -1,0 +1,10 @@
+.nav {
+    display: flex;
+    color: #4ec142;
+    align-items: center;
+    gap: 500px;
+}
+
+.nav-image {
+    width: 300px;
+}

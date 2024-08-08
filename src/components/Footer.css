@@ -1,0 +1,18 @@
+.footer {
+    text-align: center;
+    margin-top: 80px;
+    background-color: #f6f6f6;
+    padding: 10px;
+}
+
+hr {
+    width: 1000px;
+}
+
+input {
+    width: 1000px;
+}
+
+a {
+    text-decoration: none;
+}
